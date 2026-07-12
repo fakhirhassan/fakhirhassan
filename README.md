@@ -264,52 +264,13 @@ Led the engineering team responsible for the chapter's official digital platform
 
 ---
 
-## Certifications
 
-<div align="center">
-
-**Amazon Web Services**
-
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1E1B4B" />
-<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20%E2%80%94%20Associate-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1E1B4B" />
-
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-7C3AED?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1E1B4B" />
-<img src="https://img.shields.io/badge/Oracle%20AI%20Foundations-7C3AED?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1E1B4B" />
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL%20%E2%80%94%20Data%20Science-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B" />
-<img src="https://img.shields.io/badge/NPTEL%20%E2%80%94%20Machine%20Learning-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B" />
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco%20%E2%80%94%20Python%20Essentials-4F46E5?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1E1B4B" />
-<img src="https://img.shields.io/badge/Cisco%20%E2%80%94%20Networking%20Basics-4F46E5?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1E1B4B" />
 
 </div>
 
 ---
 
-## Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/u/fakhirhassan/">
-<img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B4B" height="42" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/fakhirhassan/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B4B" height="42" />
-</a>
-<a href="https://www.hackerrank.com/profile/fakhirhassan">
-<img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B4B" height="42" />
-</a>
-<a href="https://www.codechef.com/users/fakhirhassan">
-<img src="https://img.shields.io/badge/CodeChef-4F46E5?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E1B4B" height="42" />
-</a>
-
-</div>
 
 ---
 
@@ -328,13 +289,6 @@ Led the engineering team responsible for the chapter's official digital platform
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fakhirhassan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
 
 ---
 
